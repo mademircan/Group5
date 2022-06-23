@@ -3,6 +3,6 @@ package group5;
 public class Mehmet {
 
     public static void main(String[] args) {
-        System.out.println("Amin");
+        System.out.println("Amin ");
     }
 }
