@@ -5,5 +5,9 @@ public class Nancy {
         System.out.println("Wooden Spoon");
         System.out.println("world");
         System.out.println("no cry");
+        System.out.println("help");
+        System.out.println("help");
+        System.out.println("help");
+        System.out.println("help");
     }
 }
